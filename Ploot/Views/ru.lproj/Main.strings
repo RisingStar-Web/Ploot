@@ -1,0 +1,116 @@
+/* Class = "UILabel"; text = "Move the phone to adjust the AR"; ObjectID = "1UK-ts-Oao"; */
+"1UK-ts-Oao.text" = "Двигайте телефон для настройки AR";
+
+/* Class = "UIButton"; normalTitle = "End visit"; ObjectID = "2bJ-cv-NbC"; */
+"2bJ-cv-NbC.normalTitle" = "Завершить визит";
+
+/* Class = "UILabel"; text = "The levels of satiety, energy, joy, and cleanness are reduced within 16 hours. Then the pet dies"; ObjectID = "2El-Os-KXb"; */
+"2El-Os-KXb.text" = "Параметры сытости, сна, радости, и чистоты уменьшаются в течении 16 часов. После чего питомец погибает.";
+
+/* Class = "UILabel"; text = "Count of days from birth:"; ObjectID = "8dL-zd-2aj"; */
+"8dL-zd-2aj.text" = "Количество дней с рождения:";
+
+/* Class = "UILabel"; text = "Decorations shop"; ObjectID = "8vN-Vv-UOJ"; */
+"8vN-Vv-UOJ.text" = "Магазин декораций";
+
+/* Class = "UILabel"; text = "Store name"; ObjectID = "17K-LI-CrK"; */
+"17K-LI-CrK.text" = "Имя стора";
+
+/* Class = "UILabel"; text = "When you feed a pet, level of cleanliness decreases. If not clean up after pet, the level of joy will not increase"; ObjectID = "AIq-JC-KDM"; */
+"AIq-JC-KDM.text" = "Когда вы кормите питомца - уменьшается чистота. Если не убирать за питомцем, то радость не будет пополняться.";
+
+/* Class = "UILabel"; text = "Pet level increases every 3 days. With each new level the pet grows up"; ObjectID = "aPB-hD-nmn"; */
+"aPB-hD-nmn.text" = "Уровень питомца увеличивается каждые 3 дня. С каждым новым уровнем питомец вырастает";
+
+/* Class = "UILabel"; text = "Points"; ObjectID = "CQl-Pq-HJm"; */
+"CQl-Pq-HJm.text" = "Поинты";
+
+/* Class = "UILabel"; text = "Ploot - AR app, which allows you to grow your personal pet in AR. Don’t forget to take care of him, feed in time, play and put him to sleep."; ObjectID = "dAy-pp-na1"; */
+"dAy-pp-na1.text" = "Ploot - приложение в дополненной реальности, которые позволит вам вырастить собственного виртуального питомца. Не забывайте ухаживать за ним, вовремя кормить, развлекать и укладывать спать.";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "Dvd-Gc-rnl"; */
+"Dvd-Gc-rnl.normalTitle" = "Да";
+
+/* Class = "UILabel"; text = "Your pet can visit another pet. For this you get extra points. While your pet is visiting, you will not be able to control it.\n\nBring the two devices close together with running app and tap the button below."; ObjectID = "FWF-yZ-mU9"; */
+"FWF-yZ-mU9.text" = "Вы можете отправить своего питомца в гости к другому питомцу. За это вы получаете дополнительные очки. 
+
+Пока ваш питомец находится в гостях, вы не сможете им управлять.";
+
+/* Class = "UILabel"; text = "Product name"; ObjectID = "gaJ-9V-lO6"; */
+"gaJ-9V-lO6.text" = "Название продукта";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "GYe-Sa-HXT"; */
+"GYe-Sa-HXT.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Hooray!\n"; ObjectID = "gZr-F8-i3g"; */
+"gZr-F8-i3g.normalTitle" = "Ура!";
+
+/* Class = "UIButton"; normalTitle = "Visit you friend"; ObjectID = "H7e-OO-VOB"; */
+"H7e-OO-VOB.normalTitle" = "Посетить вашего друга";
+
+/* Class = "UILabel"; text = "When you visit the game every 12 hours - you get bonus points"; ObjectID = "ihG-ia-7Pm"; */
+"ihG-ia-7Pm.text" = "Бонусы выдаются каждые 12 часов при регулярном посещении игры";
+
+/* Class = "UILabel"; text = "After placing the pet on the surface, you can replace him by tapping the screen"; ObjectID = "J5J-Ux-1JA"; */
+"J5J-Ux-1JA.text" = "После размещения питомца на поверхности, вы можете разместить его в другом месте просто нажав на экран";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "JIN-hV-nvC"; */
+"JIN-hV-nvC.text" = "Уведомления";
+
+/* Class = "UILabel"; text = "Touch on the name of pet for select it:"; ObjectID = "kPf-eg-cOE"; */
+"kPf-eg-cOE.text" = "Выберите питомца, нажав на его имя:";
+
+/* Class = "UILabel"; text = "Points:"; ObjectID = "KPo-M8-NGm"; */
+"KPo-M8-NGm.text" = "Поинты:";
+
+/* Class = "UIButton"; normalTitle = "Buy decoration"; ObjectID = "KyI-OW-Pu3"; */
+"KyI-OW-Pu3.normalTitle" = "Купить декорацию";
+
+/* Class = "UIButton"; normalTitle = "Select new pet"; ObjectID = "lY5-rM-Qrs"; */
+"lY5-rM-Qrs.normalTitle" = "Выбрать нового питомца";
+
+/* Class = "UILabel"; text = "Touch to detected surface for placing of pet"; ObjectID = "mlm-LU-YCa"; */
+"mlm-LU-YCa.text" = "Для размещения питомца, нажмите на обнаруженную поверхность ";
+
+/* Class = "UILabel"; text = "You get 2 bonus points for every minute when your pet is visiting a friend"; ObjectID = "n22-IW-3iC"; */
+"n22-IW-3iC.text" = "Ваш питомец получает по 2 бонуса за каждую минуту нахождения в гостях.";
+
+/* Class = "UILabel"; text = "Sorry, your pet is die"; ObjectID = "olL-g2-5la"; */
+"olL-g2-5la.text" = "Простите, но ваш питомец умер :(";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "PuG-y7-5VJ"; */
+"PuG-y7-5VJ.text" = "0";
+
+/* Class = "UILabel"; text = "Playing with a pet increases the level of joy, but the level of energy decreases"; ObjectID = "Q7w-uH-ukk"; */
+"Q7w-uH-ukk.text" = "Игра с питомцем добавляет больше радости, но забирает его энергичность";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "QsP-77-jwU"; */
+"QsP-77-jwU.text" = "0";
+
+/* Class = "UILabel"; text = "Your pet is visiting his friend now"; ObjectID = "R2y-PW-8kC"; */
+"R2y-PW-8kC.text" = "Ваш питомец сейчас у друга";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "uAc-l1-QTY"; */
+"uAc-l1-QTY.normalTitle" = "Сбросить";
+
+/* Class = "UILabel"; text = "Camera"; ObjectID = "UIJ-sJ-86P"; */
+"UIJ-sJ-86P.text" = "Камера";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "uIS-Q4-7Sd"; */
+"uIS-Q4-7Sd.normalTitle" = "Да";
+
+/* Class = "UILabel"; text = "Reset pet:"; ObjectID = "vaJ-L4-CbE"; */
+"vaJ-L4-CbE.text" = "Сбросить питомца:";
+
+/* Class = "UILabel"; text = "Your pet's level has grown and you have received extra bonus points"; ObjectID = "X2N-OX-UG8"; */
+"X2N-OX-UG8.text" = "Уровень вашего питомца вырос и вы получили дополнительные бонусы";
+
+/* Class = "UILabel"; text = "You need give access to:"; ObjectID = "xzk-0K-mmj"; */
+"xzk-0K-mmj.text" = "Предоставить доступ для:";
+
+/* Class = "UIButton"; normalTitle = "Start play with your pet"; ObjectID = "y5I-8X-Opo"; */
+"y5I-8X-Opo.normalTitle" = "Начать играть со своим питомцем";
+
+/* Class = "UILabel"; text = "Level of pet:"; ObjectID = "yok-qH-EbF"; */
+"yok-qH-EbF.text" = "Уровень питомца:";
+

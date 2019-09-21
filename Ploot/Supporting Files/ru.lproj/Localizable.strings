@@ -1,0 +1,54 @@
+/* Pet visible name */
+"Bear" = "Медведь";
+
+/* Access to camera */
+"Camera" = "Камера";
+
+/* PetMenu reset pet alert action cancel */
+"Cancel" = "Отмена";
+
+/* Decorations visible name */
+"Chair" = "Стул";
+
+/* PetMenu reset pet alert */
+"Do you really want to reset your pet data?" = "Вы действительно хотите сбросить ваши достижения?";
+
+/* Decorations visible name */
+"Fence" = "Забор";
+
+/* Decorations visible name */
+"Flower" = "Цветок";
+
+/* Pet visible name */
+"Fox" = "Лиса";
+
+/* Notification title */
+"Hey!" = "Эй!";
+
+/* Notification param */
+"I miss you! Please come back!" = "Я потерял тебя! Возвращайся ко мне!";
+
+/* Access to camera action */
+"Ok" = "Хорошо";
+
+/* Access to camera */
+"Please give access to camera in settings your phone for use AR in application." = "Пожалуйста, предоставьте доступ к камере в настройках своего телефона.";
+
+/* Decorations visible name */
+"Pokeball" = "Покебол";
+
+/* Pet visible name */
+"Raccoon" = "Енот";
+
+/* Pet visible name */
+"Red Panda" = "Красная панда";
+
+/* PetMenu reset pet alert */
+"Reset pet" = "Сбросить";
+
+/* Pet visible name */
+"Wolf" = "Волк";
+
+/* PetMenu reset pet alert action yes */
+"Yes" = "Да";
+

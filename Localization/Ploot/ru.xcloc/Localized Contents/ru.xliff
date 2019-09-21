@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Ploot/Supporting Files/en.lproj/InfoPlist.strings" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target/>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription">
+        <source>Please allow to use camera for placing your pet</source>
+        <target>Пожалуйста, предоставьте доступ к камере для размещения питомца</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Ploot/Supporting Files/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="Bear">
+        <source>Bear</source>
+        <note>Pet visible name</note><target>Медведь</target>
+      </trans-unit>
+      <trans-unit id="Camera">
+        <source>Camera</source>
+        <target>Камера</target>
+        <note>Access to camera</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>PetMenu reset pet alert action cancel</note><target>Отмена</target>
+      </trans-unit>
+      <trans-unit id="Chair">
+        <source>Chair</source>
+        <note>Decorations visible name</note><target>Стул</target>
+      </trans-unit>
+      <trans-unit id="Do you really want to reset your pet data?">
+        <source>Do you really want to reset your pet data?</source>
+        <note>PetMenu reset pet alert</note><target>Вы действительно хотите сбросить ваши достижения?</target>
+      </trans-unit>
+      <trans-unit id="Fence">
+        <source>Fence</source>
+        <target>Забор</target>
+        <note>Decorations visible name</note>
+      </trans-unit>
+      <trans-unit id="Flower">
+        <source>Flower</source>
+        <target>Цветок</target>
+        <note>Decorations visible name</note>
+      </trans-unit>
+      <trans-unit id="Fox">
+        <source>Fox</source>
+        <note>Pet visible name</note><target>Лиса</target>
+      </trans-unit>
+      <trans-unit id="Hey!">
+        <source>Hey!</source>
+        <target>Эй!</target>
+        <note>Notification title</note>
+      </trans-unit>
+      <trans-unit id="I miss you! Please come back!">
+        <source>I miss you! Please come back!</source>
+        <note>Notification param</note><target>Я потерял тебя! Возвращайся ко мне!</target>
+      </trans-unit>
+      <trans-unit id="Ok">
+        <source>Ok</source>
+        <target>Хорошо</target>
+        <note>Access to camera action</note>
+      </trans-unit>
+      <trans-unit id="Please give access to camera in settings your phone for use AR in application.">
+        <source>Please give access to camera in settings your phone for use AR in application.</source>
+        <target>Пожалуйста, предоставьте доступ к камере в настройках своего телефона.</target>
+        <note>Access to camera</note>
+      </trans-unit>
+      <trans-unit id="Pokeball">
+        <source>Pokeball</source>
+        <target>Покебол</target>
+        <note>Decorations visible name</note>
+      </trans-unit>
+      <trans-unit id="Raccoon">
+        <source>Raccoon</source>
+        <target>Енот</target>
+        <note>Pet visible name</note>
+      </trans-unit>
+      <trans-unit id="Red Panda">
+        <source>Red Panda</source>
+        <note>Pet visible name</note><target>Красная панда</target>
+      </trans-unit>
+      <trans-unit id="Reset pet">
+        <source>Reset pet</source>
+        <note>PetMenu reset pet alert</note><target>Сбросить</target>
+      </trans-unit>
+      <trans-unit id="Wolf">
+        <source>Wolf</source>
+        <note>Pet visible name</note><target>Волк</target>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <note>PetMenu reset pet alert action yes</note><target>Да</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Ploot/Views/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="1St-BP-um1.text">
+        <source>With love for Nadin Koc</source>
+        <target>С любовью для Nadin Koc</target>
+        <note>Class = "UILabel"; text = "With love for Nadin Koc"; ObjectID = "1St-BP-um1";</note>
+      </trans-unit>
+      <trans-unit id="78O-CA-KOv.text">
+        <source>www.aleksey.store</source>
+        <target>www.aleksey.store</target>
+        <note>Class = "UILabel"; text = "www.aleksey.store"; ObjectID = "78O-CA-KOv";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Ploot/Views/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="1UK-ts-Oao.text">
+        <source>Move the phone to adjust the AR</source>
+        <target>Двигайте телефон для настройки AR</target>
+        <note>Class = "UILabel"; text = "Move the phone to adjust the AR"; ObjectID = "1UK-ts-Oao";</note>
+      </trans-unit>
+      <trans-unit id="2El-Os-KXb.text">
+        <source>The levels of satiety, energy, joy, and cleanness are reduced within 16 hours. Then the pet dies</source>
+        <note>Class = "UILabel"; text = "The levels of satiety, energy, joy, and cleanness are reduced within 16 hours. Then the pet dies"; ObjectID = "2El-Os-KXb";</note><target>Параметры сытости, сна, радости, и чистоты уменьшаются в течении 16 часов. После чего питомец погибает.</target>
+      </trans-unit>
+      <trans-unit id="2bJ-cv-NbC.normalTitle">
+        <source>End visit</source>
+        <note>Class = "UIButton"; normalTitle = "End visit"; ObjectID = "2bJ-cv-NbC";</note><target>Завершить визит</target>
+      </trans-unit>
+      <trans-unit id="8dL-zd-2aj.text">
+        <source>Count of days from birth:</source>
+        <target>Количество дней с рождения:</target>
+        <note>Class = "UILabel"; text = "Count of days from birth:"; ObjectID = "8dL-zd-2aj";</note>
+      </trans-unit>
+      <trans-unit id="8vN-Vv-UOJ.text">
+        <source>Decorations shop</source>
+        <target>Магазин декораций</target>
+        <note>Class = "UILabel"; text = "Decorations shop"; ObjectID = "8vN-Vv-UOJ";</note>
+      </trans-unit>
+      <trans-unit id="17K-LI-CrK.text">
+        <source>Store name</source>
+        <target>Имя стора</target>
+        <note>Class = "UILabel"; text = "Store name"; ObjectID = "17K-LI-CrK";</note>
+      </trans-unit>
+      <trans-unit id="AIq-JC-KDM.text">
+        <source>When you feed a pet, level of cleanliness decreases. If not clean up after pet, the level of joy will not increase</source>
+        <target>Когда вы кормите питомца - уменьшается чистота. Если не убирать за питомцем, то радость не будет пополняться.</target>
+        <note>Class = "UILabel"; text = "When you feed a pet, level of cleanliness decreases. If not clean up after pet, the level of joy will not increase"; ObjectID = "AIq-JC-KDM";</note>
+      </trans-unit>
+      <trans-unit id="CQl-Pq-HJm.text">
+        <source>Points</source>
+        <target>Поинты</target>
+        <note>Class = "UILabel"; text = "Points"; ObjectID = "CQl-Pq-HJm";</note>
+      </trans-unit>
+      <trans-unit id="Dvd-Gc-rnl.normalTitle">
+        <source>Yes</source>
+        <target>Да</target>
+        <note>Class = "UIButton"; normalTitle = "Yes"; ObjectID = "Dvd-Gc-rnl";</note>
+      </trans-unit>
+      <trans-unit id="FWF-yZ-mU9.text">
+        <source>Your pet can visit another pet. For this you get extra points. While your pet is visiting, you will not be able to control it.
+
+Bring the two devices close together with running app and tap the button below.</source>
+        <note>Class = "UILabel"; text = "Your pet can visit another pet. For this you get extra points. While your pet is visiting, you will not be able to control it.\n\nBring the two devices close together with running app and tap the button below."; ObjectID = "FWF-yZ-mU9";</note><target>Вы можете отправить своего питомца в гости к другому питомцу. За это вы получаете дополнительные очки. 
+
+Пока ваш питомец находится в гостях, вы не сможете им управлять.</target>
+      </trans-unit>
+      <trans-unit id="GYe-Sa-HXT.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "GYe-Sa-HXT";</note>
+      </trans-unit>
+      <trans-unit id="H7e-OO-VOB.normalTitle">
+        <source>Visit you friend</source>
+        <note>Class = "UIButton"; normalTitle = "Visit you friend"; ObjectID = "H7e-OO-VOB";</note><target>Посетить вашего друга</target>
+      </trans-unit>
+      <trans-unit id="J5J-Ux-1JA.text">
+        <source>After placing the pet on the surface, you can replace him by tapping the screen</source>
+        <target>После размещения питомца на поверхности, вы можете разместить его в другом месте просто нажав на экран</target>
+        <note>Class = "UILabel"; text = "After placing the pet on the surface, you can replace him by tapping the screen"; ObjectID = "J5J-Ux-1JA";</note>
+      </trans-unit>
+      <trans-unit id="JIN-hV-nvC.text">
+        <source>Notifications</source>
+        <target>Уведомления</target>
+        <note>Class = "UILabel"; text = "Notifications"; ObjectID = "JIN-hV-nvC";</note>
+      </trans-unit>
+      <trans-unit id="KPo-M8-NGm.text">
+        <source>Points:</source>
+        <note>Class = "UILabel"; text = "Points:"; ObjectID = "KPo-M8-NGm";</note><target>Поинты:</target>
+      </trans-unit>
+      <trans-unit id="KyI-OW-Pu3.normalTitle">
+        <source>Buy decoration</source>
+        <note>Class = "UIButton"; normalTitle = "Buy decoration"; ObjectID = "KyI-OW-Pu3";</note><target>Купить декорацию</target>
+      </trans-unit>
+      <trans-unit id="PuG-y7-5VJ.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "PuG-y7-5VJ";</note>
+      </trans-unit>
+      <trans-unit id="Q7w-uH-ukk.text">
+        <source>Playing with a pet increases the level of joy, but the level of energy decreases</source>
+        <target>Игра с питомцем добавляет больше радости, но забирает его энергичность</target>
+        <note>Class = "UILabel"; text = "Playing with a pet increases the level of joy, but the level of energy decreases"; ObjectID = "Q7w-uH-ukk";</note>
+      </trans-unit>
+      <trans-unit id="QsP-77-jwU.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "QsP-77-jwU";</note>
+      </trans-unit>
+      <trans-unit id="R2y-PW-8kC.text">
+        <source>Your pet is visiting his friend now</source>
+        <note>Class = "UILabel"; text = "Your pet is visiting his friend now"; ObjectID = "R2y-PW-8kC";</note><target>Ваш питомец сейчас у друга</target>
+      </trans-unit>
+      <trans-unit id="UIJ-sJ-86P.text">
+        <source>Camera</source>
+        <target>Камера</target>
+        <note>Class = "UILabel"; text = "Camera"; ObjectID = "UIJ-sJ-86P";</note>
+      </trans-unit>
+      <trans-unit id="X2N-OX-UG8.text">
+        <source>Your pet's level has grown and you have received extra bonus points</source>
+        <target>Уровень вашего питомца вырос и вы получили дополнительные бонусы</target>
+        <note>Class = "UILabel"; text = "Your pet's level has grown and you have received extra bonus points"; ObjectID = "X2N-OX-UG8";</note>
+      </trans-unit>
+      <trans-unit id="aPB-hD-nmn.text">
+        <source>Pet level increases every 3 days. With each new level the pet grows up</source>
+        <target>Уровень питомца увеличивается каждые 3 дня. С каждым новым уровнем питомец вырастает</target>
+        <note>Class = "UILabel"; text = "Pet level increases every 3 days. With each new level the pet grows up"; ObjectID = "aPB-hD-nmn";</note>
+      </trans-unit>
+      <trans-unit id="cXs-JZ-C7L.text">
+        <source>0</source>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "cXs-JZ-C7L";</note>
+      </trans-unit>
+      <trans-unit id="cdP-lZ-0Nd.text">
+        <source>0</source>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "cdP-lZ-0Nd";</note>
+      </trans-unit>
+      <trans-unit id="dAy-pp-na1.text">
+        <source>Ploot - AR app, which allows you to grow your personal pet in AR. Don’t forget to take care of him, feed in time, play and put him to sleep.</source>
+        <target>Ploot - приложение в дополненной реальности, которые позволит вам вырастить собственного виртуального питомца. Не забывайте ухаживать за ним, вовремя кормить, развлекать и укладывать спать.</target>
+        <note>Class = "UILabel"; text = "Ploot - AR app, which allows you to grow your personal pet in AR. Don’t forget to take care of him, feed in time, play and put him to sleep."; ObjectID = "dAy-pp-na1";</note>
+      </trans-unit>
+      <trans-unit id="gZr-F8-i3g.normalTitle">
+        <source>Hooray!
+</source>
+        <target>Ура!</target>
+        <note>Class = "UIButton"; normalTitle = "Hooray!\n"; ObjectID = "gZr-F8-i3g";</note>
+      </trans-unit>
+      <trans-unit id="gaJ-9V-lO6.text">
+        <source>Product name</source>
+        <target>Название продукта</target>
+        <note>Class = "UILabel"; text = "Product name"; ObjectID = "gaJ-9V-lO6";</note>
+      </trans-unit>
+      <trans-unit id="ihG-ia-7Pm.text">
+        <source>When you visit the game every 12 hours - you get bonus points</source>
+        <target>Бонусы выдаются каждые 12 часов при регулярном посещении игры</target>
+        <note>Class = "UILabel"; text = "When you visit the game every 12 hours - you get bonus points"; ObjectID = "ihG-ia-7Pm";</note>
+      </trans-unit>
+      <trans-unit id="kPf-eg-cOE.text">
+        <source>Touch on the name of pet for select it:</source>
+        <target>Выберите питомца, нажав на его имя:</target>
+        <note>Class = "UILabel"; text = "Touch on the name of pet for select it:"; ObjectID = "kPf-eg-cOE";</note>
+      </trans-unit>
+      <trans-unit id="lY5-rM-Qrs.normalTitle">
+        <source>Select new pet</source>
+        <target>Выбрать нового питомца</target>
+        <note>Class = "UIButton"; normalTitle = "Select new pet"; ObjectID = "lY5-rM-Qrs";</note>
+      </trans-unit>
+      <trans-unit id="mlm-LU-YCa.text">
+        <source>Touch to detected surface for placing of pet</source>
+        <target>Для размещения питомца, нажмите на обнаруженную поверхность </target>
+        <note>Class = "UILabel"; text = "Touch to detected surface for placing of pet"; ObjectID = "mlm-LU-YCa";</note>
+      </trans-unit>
+      <trans-unit id="n22-IW-3iC.text">
+        <source>You get 2 bonus points for every minute when your pet is visiting a friend</source>
+        <note>Class = "UILabel"; text = "You get 2 bonus points for every minute when your pet is visiting a friend"; ObjectID = "n22-IW-3iC";</note><target>Ваш питомец получает по 2 бонуса за каждую минуту нахождения в гостях.</target>
+      </trans-unit>
+      <trans-unit id="olL-g2-5la.text">
+        <source>Sorry, your pet is die</source>
+        <target>Простите, но ваш питомец умер :(</target>
+        <note>Class = "UILabel"; text = "Sorry, your pet is die"; ObjectID = "olL-g2-5la";</note>
+      </trans-unit>
+      <trans-unit id="uAc-l1-QTY.normalTitle">
+        <source>Reset</source>
+        <target>Сбросить</target>
+        <note>Class = "UIButton"; normalTitle = "Reset"; ObjectID = "uAc-l1-QTY";</note>
+      </trans-unit>
+      <trans-unit id="uIS-Q4-7Sd.normalTitle">
+        <source>Yes</source>
+        <target>Да</target>
+        <note>Class = "UIButton"; normalTitle = "Yes"; ObjectID = "uIS-Q4-7Sd";</note>
+      </trans-unit>
+      <trans-unit id="vaJ-L4-CbE.text">
+        <source>Reset pet:</source>
+        <note>Class = "UILabel"; text = "Reset pet:"; ObjectID = "vaJ-L4-CbE";</note><target>Сбросить питомца:</target>
+      </trans-unit>
+      <trans-unit id="xzk-0K-mmj.text">
+        <source>You need give access to:</source>
+        <target>Предоставить доступ для:</target>
+        <note>Class = "UILabel"; text = "You need give access to:"; ObjectID = "xzk-0K-mmj";</note>
+      </trans-unit>
+      <trans-unit id="y5I-8X-Opo.normalTitle">
+        <source>Start play with your pet</source>
+        <target>Начать играть со своим питомцем</target>
+        <note>Class = "UIButton"; normalTitle = "Start play with your pet"; ObjectID = "y5I-8X-Opo";</note>
+      </trans-unit>
+      <trans-unit id="yok-qH-EbF.text">
+        <source>Level of pet:</source>
+        <note>Class = "UILabel"; text = "Level of pet:"; ObjectID = "yok-qH-EbF";</note><target>Уровень питомца:</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

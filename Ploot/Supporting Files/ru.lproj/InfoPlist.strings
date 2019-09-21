@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "";
+
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Пожалуйста, предоставьте доступ к камере для размещения питомца";
+

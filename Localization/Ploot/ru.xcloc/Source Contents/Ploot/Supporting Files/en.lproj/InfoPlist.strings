@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "$(PRODUCT_NAME)";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Please allow to use camera for placing your pet";
